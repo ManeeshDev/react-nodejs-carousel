@@ -1,12 +1,43 @@
-## This is a React Small Web App.
+## 👨‍💻This is a React Small Web App.
+- Full stack application 
+- React JS + Node JS Practical Test
+
+### 🏷️ Prerequisites
+
+- Have **NodeJs** installed
+
+### 🏷️ Installation
+
+    ✅Client Side and API together:
+       ☑️API - react-nodejs-carousel/api/
+       ☑️React - react-nodejs-carousel/
+
+ 1. Fork, clone or download this repository.
+ 2. Run ` npm install `.
+
+    > git clone git@example.org/user/repository-name-directory.git
+    > 
+    > cd repository-name-directory 
+    > 
+    > npm install
+ 
+ 3. Make database with .env DB_NAME.
+ 4. Just run App & API.
 
 ##### Run App::
-    nodejs-react-practical-test/ 
+    react-nodejs-carousel/ 
     > npm start
     
 ##### Run API::
-    nodejs-react-practical-test/api/ 
+    react-nodejs-carousel/api/ 
     > npm start
+
+📌 in 2023;
+
+
+______________
+______________
+______________
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
